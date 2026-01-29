@@ -1,0 +1,16 @@
+# Node
+backend/node_modules/
+
+
+# Entornos
+backend/.env
+
+
+# Angular (cuando lo tengas)
+cliente/node_modules/
+cliente/dist/
+
+
+# XAMPP / sistema
+*.log
+.DS_Store
